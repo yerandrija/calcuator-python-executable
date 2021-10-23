@@ -1,6 +1,6 @@
 # Calculator - github.com/yerandrija
-[.py] A calculator application, a combination of #Python and #tkinter.
-[.png](calculator.png)
+[#py] A calculator application, a combination of #Python and #tkinter.
+[#png](calculator.png)
 
 ---
 
